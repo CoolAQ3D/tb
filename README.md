@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Toolbox v3
 
 For Fun, while also learning python, javascript, html, css, etc...
@@ -34,3 +35,4 @@ fi
 
 ## Version
 1.0.0
+=======
