@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Toolbox v3
 
 For Fun, while also learning python, javascript, html, css, etc...
